@@ -53,7 +53,7 @@ In particular "Status" below has the following sense:
 | [131](https://github.com/ton-blockchain/TEPs/pull/131/files)          | Referral code in Query ID            | Contract Interface | 26.12.2023 | 🛠️Partially Deployed🛠️ |
 | [137](https://github.com/ton-blockchain/TEPs/pull/137/files)          | Jetton Wallet Balance Query          | Contract Interface | 09.01.2024 | Proposed |
 | [140](https://github.com/ton-blockchain/TEPs/pull/140/files)          | Programmable Action Phase            | Core               | 20.01.2024 | Proposed |
-| [141](https://github.com/ton-blockchain/TEPs/pull/141)                | Remote onchain execution             | Core               | 20.01.2024 | Proposed |
+| [141](https://github.com/ton-blockchain/TEPs/pull/141)                | Remote onchai execution             | Core               | 20.01.2024 | Proposed |
 | [142](https://github.com/ton-blockchain/TEPs/pull/142/files)          | TBRC-20 Inscription Token Standard   | Contract Interface | 26.01.2024 | Proposed |
 | [145](https://github.com/ton-blockchain/TEPs/pull/145/files)          | Metadata "Hidden" render type        | Contract Interface | 26.01.2024 | ✅Deployed✅ |
 | [146](https://github.com/ton-blockchain/TEPs/pull/146/files)          | Semi-fungible token standard         | Contract Interface | 17.03.2024 | Proposed |
